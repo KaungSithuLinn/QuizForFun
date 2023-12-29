@@ -2,12 +2,6 @@
 A Quiz Android application 📱 built using Java ♨️ and showing best practices of 🛠️ Room
 -------------------
 
-## ❤️ Try App
-## Scan QR Code
- <img src="https://raw.githubusercontent.com/pikachu404/Quiz-App/master/screenshots/qrCodeForApk.png"
-width="200" height="200"> 
----------------
-### Get Apk [Download here](https://raw.githubusercontent.com/pikachu404/Quiz-App/master/app/release/app-release.apk)
 ------------
 ## ⚙️ Features
 * App consists of Quiz of primarily three subject - Maths, Geography, Literature
@@ -23,15 +17,6 @@ width="200" height="200">
 * Quiz App is build using Java
 * Asynctask for asynchronous
 * Room Persistence Library
-
-## 📸 Screenshots
-
-||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
-| ![Imgur](screenshots/0.png) | ![Imgur](screenshots/1.png) | ![Imgur](screenshots/2.png) |
-| ![Imgur](screenshots/3.png) | ![Imgur](screenshots/4.png) | ![Imgur](screenshots/5.png) |
-| ![Imgur](screenshots/6.png) | ![Imgur](screenshots/7.png) | ![Imgur](screenshots/8.png) |
-| ![Imgur](screenshots/9.png) | ![Imgur](screenshots/9.png) | ![Imgur](screenshots/10.png) |
 
 ## ⚡ Dependencies Used
 ```sh
